@@ -19,8 +19,9 @@ Everything I build is from scratch, no copy/paste templates as I belive that's h
 ---
 <h3>A Bit About Me</h3>
 
-* 🐶I Love Dogs
-* ☕I love coffe, black to be specific :)
+* 🐶:I Love Dogs
+* ☕:I love coffe, black to be specific :)
+* :book: - Reading
 * :runner: - Running / Jogging
-* Love :video_game: - Gaming
+* :video_game: - Gamer
 
