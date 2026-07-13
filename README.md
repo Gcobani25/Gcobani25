@@ -10,11 +10,11 @@ This is where I will be uploading some smaller projects, cool articles and thing
 Everything I build is from scratch, no copy/paste templates as I belive that's how we all can learn and continue to grow
 
 ---
-🛠️<h3>Tools & Tech</h3>
+<h3>🛠️Tools & Tech</h3>
 
-🔹 🌐HTML, CSS
-🔸 📊MsExcel, 📝MsWord
-🔹 🗄️SQL,  🐍Python,  📈Tableau & Power BI
+* 🌐HTML, CSS
+* 📊MsExcel, 📝MsWord
+* 🗄️SQL,  🐍Python,  📈Tableau & Power BI
 
 ---
 <h3>A Bit About Me</h3>
