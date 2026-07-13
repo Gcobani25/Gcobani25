@@ -1,16 +1,23 @@
-## Hi there 👋
+<h3>Hi there 👋</h3>
 
-<!--
-**Gcobani25/Gcobani25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm Gcobani, an IT Cubicle Cadet, based in South Africa. 🇿🇦
 
-Here are some ideas to get you started:
+Mostly passionate about data analysis, and some experience with building static websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently working on building more Data Analyst projects that combine all the must need to know languages/tools: SQL, EXCEL, PYTHON & TABLEAU/POWER BI
+
+This is where I will be uploading some smaller projects, cool articles and things I'm currently working on. 
+Everything I build is from scratch, no copy/paste templates as I belive that's how we all can learn and continue to grow. :)
+---
+<h3>Tools & Tech</h3>
+* HTML, CSS
+* MsExcel, MsWord
+* SQL, Python, Tableau, Power BI
+---
+
+<h3>A Bit About Me</h3>
+
+* ☕ I Love Dogs
+* I love coffe, black to be specific
+* Hobbies: 📚reading, 🏋️gym, 🏃jogging
+
