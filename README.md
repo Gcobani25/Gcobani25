@@ -21,5 +21,6 @@ Everything I build is from scratch, no copy/paste templates as I belive that's h
 
 * 🐶I Love Dogs
 * ☕I love coffe, black to be specific :)
-* Hobbies: 📚reading, 🏋️gym, 🏃jogging
+* :runner: - Running / Jogging
+* Love :video_game: - Gaming
 
