@@ -17,7 +17,7 @@ Everything I build is from scratch, no copy/paste templates as I belive that's h
 * SQL🗄️, Python🐍, Tableau & Power BI📈
 
 ---
-<h3>🌚:A Bit About Me</h3>
+<h3>🤵‍♂️A Bit About Me</h3>
 
 * I Love Dogs 🐕
 * I Love coffe☕, black to be specific 😄🙃
