@@ -12,16 +12,16 @@ Everything I build is from scratch, no copy/paste templates as I belive that's h
 ---
 <h3>🛠️Tools & Tech</h3>
 
-* 🌐HTML, CSS
-* 📊MsExcel, 📝MsWord
-* 🗄️SQL,  🐍Python,  📈Tableau & Power BI
+* HTML, CSS 🌐
+* MsExcel📊, MsWord📝
+* SQL🗄️, Python🐍, Tableau & Power BI📈
 
 ---
 <h3>A Bit About Me</h3>
 
-* 🐶:I Love Dogs
-* ☕:I love coffe, black to be specific :)
-* :book: - Reading
-* :runner: - Running / Jogging
-* :video_game: - Gamer
+* I Love Dogs 🐕
+* I love coffe☕, black to be specific 😄🙃
+* Reading 📚
+* Running / Jogging 🏃
+* Gamer 🎮
 
