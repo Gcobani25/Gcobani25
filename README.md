@@ -20,8 +20,9 @@ Everything I build is from scratch, no copy/paste templates as I belive that's h
 <h3>🤵‍♂️A Bit About Me</h3>
 
 * I Love Dogs 🐕
-* I Love coffe☕, black to be specific 😄🙃
-* I enjoy Reading 📚
+* I Love Coffee☕, Black To Be specific 😄🙃
+* I Enjoy Reading 📚
 * Running / Jogging 🏃
+* Gym 💪 
 * Gamer 🎮
 
